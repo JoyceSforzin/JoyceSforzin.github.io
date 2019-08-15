@@ -1,6 +1,6 @@
 ---
-title:  "Fases de vida antes e depois da faculdade"
-subtitle: "nem tudo esta ai para ser o fim"
+title:  "Fases da vida antes e depois da faculdade"
+subtitle: "Nem tudo esta ai para ser o fim"
 author: "Joyce"
 avatar: "https://avatars1.githubusercontent.com/u/53825558?s=460&v=4"
 image: "img/f.jpg"
