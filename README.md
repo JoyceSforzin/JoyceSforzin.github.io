@@ -1,18 +1,17 @@
-# front cover jekyll theme
+# Jekyll Modern Blog
 
-## Why choose this jekyll theme for your front page?
-* You don't have to modify any HTML, everything can be modified in config.yml.
-* Very lightweight. No Javascript, No Bootstrap etc..
-* MIT licensed.
+A Simple, Clean and responsive modern blog for jekyll.
 
+## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
 
-## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+## Attributions
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
+Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
-## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
+## License
 
-This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
+Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
 
+Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
+
+Changes being that I made it jekyll ready and smushed the CSS together.
