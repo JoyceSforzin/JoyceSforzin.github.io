@@ -1,6 +1,6 @@
 ---
 title:  "Efeito borboleta"
-subtitle: "Estatística nunca saiu da minh vida"
+subtitle: "Estatística nunca saiu da minha vida"
 author: "Amora"
 avatar: "https://avatars1.githubusercontent.com/u/53825558?s=460&v=4"
 image: "img/d.jpg"
