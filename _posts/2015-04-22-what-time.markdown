@@ -4,7 +4,7 @@ subtitle: "Voz que não sabia que tinha"
 author: "Amora"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
-date:   18-08-2019 14:18:56
+date:   15-08-2019 14:18:56
 ---
 
 ### Oportunidades 
