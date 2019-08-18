@@ -1,5 +1,5 @@
 ---
-title:  "Animes"
+title:  "Lista de animes"
 subtitle: "Mundo paralelo que me confortou"
 author: "Amora"
 avatar: "https://avatars1.githubusercontent.com/u/53825558?s=460&v=4"
@@ -57,7 +57,7 @@ Bom esses sao alguns que recomendo se quiser sinopse recomendo esse sait que fal
 
 Divirta-se 
 
-### Nem so de romance vivemos.
+### Nem só de romance vivemos.
 Queria aproveitar e também recomendar uns animes de terror, suspense, ação, aventura e acho que todos esses são ótimos pra acrescentar em suas listas de próximo a ver: 
 
 1- Ao no exorcist
